@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 
-Welcome!
 ======
 
 I'm a fourth-year Ph.D. Economics student at [University of North Carolina at Chapel Hill](https://econ.unc.edu/graduate). My research interests lie in Applied Micro Economics, specifically Labor, Health and Development Economics.
