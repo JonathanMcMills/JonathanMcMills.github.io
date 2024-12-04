@@ -8,7 +8,7 @@ date: 2021-11-22
 venue: 'SN Business Economics'
 slidesurl: # 'http://academicpages.github.io/files/slides1.pdf'
 paperurl:  'https://link.springer.com/epdf/10.1007/s43546-021-00170-6?sharing_token=Sq1uk9_Gbt_lFLEtcTGQ2Pe4RwlQNchNByi7wbcMAY4xHzOEXZS1r7XxXYCWpQIilQDkspsAfxxCqqNb1aHlwFGoRUwTSyBqwbNtUn-njgFUlPwMdykzvNE4S5ZNulG2mMLnbD62iPEFVvy7d4cOvdx36BZYji1gzQnP8onUSP0%3D'
-citation: 'Turkson, D., Addai, N.B., Chowdhury, F., & Mohammed, F. (2021). Government Policies and Firm Performance in the COVID-19 Pandemic Era: A Sectoral Analysis.  <i> SN Business Economics</i>, 1(12): 1-22.'
+citation: 'Turkson, D., Addai, N.B., Chowdhury, F., & Mohammed, F. (2021). Government Policies and Firm Performance in the COVID-19 Pandemic Era: A Sectoral Analysis.  <i>SN Business Economics</i>, 1(12): 1-22.'
 ---
 
 

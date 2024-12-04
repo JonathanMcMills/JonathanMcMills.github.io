@@ -8,7 +8,7 @@ date: 2023-11-25
 venue: 'SN Social Sciences'
 slidesurl: # 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://link.springer.com/epdf/10.1007/s43545-023-00792-7?sharing_token=8B28uScSvfOX7bI9F4TGpfe4RwlQNchNByi7wbcMAY4L-AGeEle_Msl4guUermtYGC9IfP2KJb2BjUmTLuNV29obCevz9kM__K-vzxsZQlXF6fjkyYiK2pq7D01kPEwxIKJK-8r1UtUy3_-wp3LGNUsKIaQacXiOhr4MmUVb6wk%3D'
-citation: 'Yorke, F.R., Wahab, S., & Turkson, D. (2023). Maternal education and child malnutrition: evidence from selected West African countries.; <i>SN Social Sciences</i>, 3 (200): 1-30.'
+citation: 'Yorke, F.R., Wahab, S., & Turkson, D. (2023). Maternal education and child malnutrition: evidence from selected West African countries. <i>SN Social Sciences</i>, 3 (200): 1-30.'
 
 ---
 

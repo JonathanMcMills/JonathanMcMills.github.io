@@ -1,5 +1,5 @@
 ---
-title: "Tax compliance in Ghana: does corruption and trust in the government matter?"
+title: "Tax compliance in Ghana: Does Corruption and Trust in the Government matter?"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-08-31-tax-compliance
@@ -8,7 +8,7 @@ date: 2023-08-31
 venue: 'SN Social Sciences'
 slidesurl: # 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://link.springer.com/epdf/10.1007/s43545-023-00746-z?sharing_token=50XSqbImJ5ubErlpkXL0dve4RwlQNchNByi7wbcMAY7_UXhV_FgbwXBb9okOO9MIWtzmPEgy8orbRDQlZBlpEX_iJ-OmcLbo22MDcxhI62lpYRJjDanfFHt_uEKBSpsSypwxfGV5LTlmSYw3ukEal1liPn8CL8Ch35GRGoYjPgY%3D'
-citation: 'Nyarkpoh, M.K., Turkson, D., & Buaka, E.S. (2023). Tax compliance in Ghana: does corruption and trust in the government matter?; <i>SN Social Sciences</i>, 3 (155): 1-18.'
+citation: 'Nyarkpoh, M.K., Turkson, D., & Buaka, E.S. (2023). Tax compliance in Ghana: does corruption and trust in the government matter? <i>SN Social Sciences</i>, 3 (155): 1-18.'
 ---
 
 ### Abstract
