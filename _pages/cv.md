@@ -21,9 +21,6 @@ Work experience
 * Fall 2021 - Present: Graduate Teaching and Research Assistant
   * Economics Department, University of North Carolina at Chapel Hill
 
-* Fall 2023 - Present: Short-term Consultant
-  * Enterprise Survey Unit, The World Bank
-
 * Fall 2019 - Summer 2021: Graduate Teaching and Research Assistant
   * Economics Department, University of North Carolina at Greensboro
 
