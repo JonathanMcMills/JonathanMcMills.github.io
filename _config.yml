@@ -8,57 +8,57 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Danny Turkson"
+title                    : "Jonathan McMills Ewusi-Amoah"
 title_separator          : "-"
-name                     : &name "Danny Turkson"
+name                     : &name "Jonathan McMills Ewusi-Amoah"
 description              : &description "personal description"
-url                      : https://dannyturkson.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://jonathanmcmills.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "dannyturkson/dannyturkson.github.io"
+repository               : "JonathanMcMills/JonathanMcMills.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.JPG"
-  name             : "Danny Turkson"
+  avatar           : "Profile.jpg"
+  name             : "Jonathan McMills Ewusi-Amoah"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Econ Student at UNC"
-  location         : "Chapel Hill, NC"
-  employer         : "UNC Chapel Hill"
+  bio              : "Ph.D. Econ Student at GSU"
+  location         : "Atlanta, GA"
+  employer         : "Andrew Young School of Policy Studies"
   uri              : # URL
-  email            : "dturkson@unc.edu" 
+  email            : "jewusiamoah1@gsu.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=L2GtW8UAAAAJ&hl=en"
+  googlescholar    : # "https://scholar.google.com/citations?user=L2GtW8UAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0002-1664-6899"
+  orcid            : # "https://orcid.org/0000-0002-1664-6899"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     :  "https://www.researchgate.net/profile/Danny-Turkson?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoiaG9tZSIsInBvc2l0aW9uIjoiZ2xvYmFsSGVhZGVyIn19"
+  researchgate     : # "https://www.researchgate.net/profile/Danny-Turkson?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoiaG9tZSIsInBvc2l0aW9uIjoiZ2xvYmFsSGVhZGVyIn19"
   scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "dannyturkson"
+  github           : "JonathanMcMills"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : # "bsky.app" # Replace this with you Bluesky username
+  bluesky          :  "mcmills4u.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        :  "mcmills4u"
   lastfm           : # Username
-  linkedin         : "dannyturkson"
+  linkedin         : "jonathan-mcmills-ewusi-amoah-b5855212a"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -66,12 +66,12 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "dan_jux_kiddin"
+  twitter          : "mcmills4u"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
+  youtube          :  "bestgradeservices"
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
