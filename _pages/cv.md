@@ -11,24 +11,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Economics,University of North Carolina at Chapel Hill, (2021 - present)
-* M.A. in Applied Economics, University of North Carolina at Greensboro, 2020
-* M.Phil. in Economics, University of Ghana, 2018
-* B.A. in Economics and Statistics, University of Ghana, 2015
+* Ph.D in Economics, Georgia State University, Atlanta (2025 - present)
+* M.A. in Econometrics and Quantitative Economics, Miami University, 2025
+* B.A. in Economics and Statistics, University of Ghana, 2020
 
 Work experience
 ======
-* Fall 2021 - Present: Graduate Teaching and Research Assistant
-  * Economics Department, University of North Carolina at Chapel Hill
+* Fall 2025 - Present: Graduate Teaching and Research Assistant
+  * Economics Department, Georgia State University
 
-* Fall 2019 - Summer 2021: Graduate Teaching and Research Assistant
-  * Economics Department, University of North Carolina at Greensboro
+* Fall 2024 - Summer 2025: Graduate Teaching and Research Assistant
+  * Economics Department, Farmer School of Business, Miami University
 
-* Fall 2018 - Summer 2019: Research Assistant
-  * Economics Department, University of Ghana
+* Fall 2020 - Summer 2021: Research Assistant
+  * Legon Center for International Affairs and Diplomacy , University of Ghana
 
-* Fall 2015 - Summer 2016: Teaching Assistant
-  * Economics Department, University of Ghana
+* June 2019 – July 2019: Sales Agent
+  * Vanguard Assurance, University of Ghana
+
 
 
 Publications
@@ -40,4 +40,4 @@ Publications
 ---
 
 
-Find my full CV [here](/files/dturkson_CV_2025.pdf).
+Find my full CV [here](/files/resume2025.pdf).
